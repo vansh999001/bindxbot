@@ -1,0 +1,2 @@
+# bindxbot
+For safety bind 
